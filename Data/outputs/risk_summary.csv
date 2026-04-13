@@ -1,0 +1,4 @@
+risk_segment,total_customers,approved,approval_rate
+"Low Risk",343,278,81.05
+"Medium Risk",131,100,76.34
+"High Risk",140,44,31.43
