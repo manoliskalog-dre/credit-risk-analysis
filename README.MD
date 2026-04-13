@@ -60,6 +60,7 @@ The Power BI dashboard provides:
    - Key drivers of loan approval
 
 📌 (See /visuals/dashboard.png)
+![Dashboard](visuals/dashboard.png)
 
 📂 Project Structure
 credit-risk-analysis/
