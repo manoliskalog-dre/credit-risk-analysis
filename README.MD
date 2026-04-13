@@ -1,6 +1,7 @@
 Credit Risk Analysis & Loan Approval Insights
 
 📊 Project Overview
+![Dashboard](Visuals/dashboard.png)
 
 This project analyzes loan application data to identify key factors influencing loan approval and customer risk. The goal is to understand what drives loan decisions and segment customers based on risk levels.
 
@@ -60,7 +61,7 @@ The Power BI dashboard provides:
    - Key drivers of loan approval
 
 📌 (See /visuals/dashboard.png)
-![Dashboard](visuals/dashboard.png)
+
 
 📂 Project Structure
 credit-risk-analysis/
